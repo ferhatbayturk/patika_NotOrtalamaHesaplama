@@ -23,6 +23,7 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 
         double dilimAlani = (𝜋 * (r*r) * a) / 360;
         System.out.println("Daire diliminin alanı = "+ dilimAlani);
+        System.out.println();
 
     }
 }
